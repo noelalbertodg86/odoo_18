@@ -1,6 +1,3 @@
-Jinja2
-MarkupSafe
-PyPDF2
 asn1crypto
 babel>=1.0
 cbor2
@@ -12,8 +9,10 @@ geoip2
 gevent
 greenlet
 idna
-libsass
+Jinja2
 lxml
+libsass
+MarkupSafe
 num2words
 ofxparse
 openpyxl
@@ -23,6 +22,7 @@ polib
 psutil
 psycopg2>=2.2
 pyopenssl
+PyPDF2
 pyserial
 python-dateutil
 python-stdnum
@@ -30,8 +30,8 @@ pytz
 pyusb>=1.0.0b1
 qrcode
 reportlab
-requests
 rjsmin
+requests
 urllib3
 vobject
 werkzeug
